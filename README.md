@@ -45,8 +45,8 @@
 ## ✨ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 😺 Fun with GitHub Readme Stats
-- **Languages Used:**
+##  Languages Most Used
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Coder-Jr&layout=compact&theme=vision-friendly-dark)
 
 ## 🎨 Just for Fun
