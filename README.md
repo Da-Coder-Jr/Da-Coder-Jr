@@ -5,6 +5,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a heart surgery
 
-```<--- 
+``` <--- 
      WHICH WAY?
-               --->
+               ---> ```
