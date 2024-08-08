@@ -27,16 +27,16 @@
 - **Coding Music:** Chill beats for coding
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Da-Coder-Jr&show_icons=true)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Da-Coder-Jr&theme=onedark)
 
 ## 🌐 GitHub Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Da-Coder-Jr&color=blueviolet)
 
 ## 📊 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Da-Coder-Jr&theme=highcontrast)
 
 ## 🔭 Currently Working On
 - Developing new features for personal projects.
@@ -47,7 +47,7 @@
 
 ## 😺 Fun with GitHub Readme Stats
 - **Languages Used:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Coder-Jr&layout=compact&theme=vision-friendly-dark)
 
 ## 🎨 Just for Fun
 - **Direction:**
@@ -55,18 +55,19 @@
   - <img src="https://img.icons8.com/emoji/48/000000/arrow-right.png"/> THAT WAY!
 
 ## 🎥 Special Video
-- Check out this special video with my GitHub name:
+- Check out this special video:
   [![Special Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 🖼️ GitHub Art
-![GitHub Art](https://github.com/yourusername/github-artwork/blob/master/README.md)
+![GitHub Art](https://octodex.github.com/images/octocat.png)
 
 ## 🎯 Fun Challenges
 - Participating in coding challenges and hackathons to sharpen skills and have fun.
 
 ## 🚀 Cool Tools
-- **Tool 1:** A nifty tool for improving workflow.
-- **Tool 2:** Another great tool for enhancing productivity.
+- **Tool 1:** [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup, and prose.
+- **Tool 2:** [Postman](https://www.postman.com/) - A collaboration platform for API development.
+- **Tool 3:** [Docker](https://www.docker.com/) - An open platform for developing, shipping, and running applications.
 
 ## 🛠️ Setup & Configuration
 - Sharing my setup and configuration for development environments.
