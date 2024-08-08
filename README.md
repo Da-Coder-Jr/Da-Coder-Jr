@@ -75,9 +75,7 @@
 - Using [Dracula Theme](https://draculatheme.com/) for a visually pleasing coding experience.
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourusername.github.io)
+- [Personal Website](https://e-z.bio/caged)
 
 ## 📣 Shoutouts
 - Special thanks to all the contributors and maintainers of the awesome open-source projects I use.
