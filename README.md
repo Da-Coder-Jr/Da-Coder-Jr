@@ -55,7 +55,7 @@
   - <img src="https://img.icons8.com/emoji/48/000000/arrow-right.png"/> THAT WAY!
 
 ## 🎥 Special Video
-- Check out this special video:
+
   [![Special Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 🖼️ GitHub Art
