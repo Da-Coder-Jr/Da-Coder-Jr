@@ -126,7 +126,6 @@ Hello! I'm **Da-Coder-Jr**, a passionate coder who loves exploring new technolog
 
 ## 🤝 Let’s Connect
 - 🌐 **[Personal Website](https://e-z.bio/caged)** - Check out my website!
-- 🐦 **[Twitter](https://twitter.com/Da-Coder-Jr)** - Follow me on Twitter for updates and coding tips.
 
 ---
 
