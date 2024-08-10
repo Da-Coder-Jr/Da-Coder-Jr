@@ -5,10 +5,11 @@
 ---
 
 <div align="center">
-  <img src="https://imgur.com/a/z7j1Ptf" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
+  <img src="https://i.imgur.com/8ybHW46.gif" alt="Description of GIF" />
 </div>
 
 ---
+
 
 
 ## 👀 Who Am I?
