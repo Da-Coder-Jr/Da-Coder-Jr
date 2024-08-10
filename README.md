@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gif" alt="Rounded GIF" style="border-radius: 9999px; overflow: hidden;" />
+  <img src="https://files.oaiusercontent.com/file-ApsnqajpJCiEUKxUs6Xah9AJ?se=2024-08-10T23%3A46%3A01Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D14%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Doutput_rounded.gif&sig=82HuezywdWSFK4t1K/G6vgf5PSkft2iHf8zovMphulk%3D&client=1723333546-lrGkNN3rSJulBsA67Ip%2F%2Bo6P%2FKimxPEwkgSaCtnVrWk%3D" alt="Rounded GIF" style="border-radius: 9999px; overflow: hidden;" />
 </div>
 
 ---
