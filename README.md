@@ -18,7 +18,7 @@
   <strong>a passionate coder who loves exploring new technologies and collaborating on exciting projects.</strong><br>
   <strong>I'm always eager to learn, innovate, and share knowledge with the community.</strong><br>
   <strong>My journey in coding started with an insatiable curiosity, and I’ve been hooked ever since!</strong><br>
-  <strong>I <strong>LOVE<<strong> to experiment with Hacks and code!It brings me <h2><strong>LOTS<h2><strong> of joy!</strong><br>
+  <strong>I <strong>LOVE<<strong> to experiment with Hacks and code!It brings me LOTS of joy!</strong><br>
   
 
 </div>
