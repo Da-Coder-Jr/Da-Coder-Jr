@@ -5,10 +5,11 @@
 ---
 
 <div align="center">
- [Description](https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif)
+  <img src="https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif" alt="Description of GIF" />
 </div>
 
 ---
+
 
 ## 👀 Who Am I?
 
