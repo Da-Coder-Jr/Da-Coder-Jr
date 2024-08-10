@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="blob:https://onlinegiftools.com/68556a2d-d2f7-4d4c-83ea-27d46f646f91" alt="Description of GIF"
+  <img src="https://imgur.com/a/TxwKhxb" alt="Description of GIF"
 </div>
 
 ---
