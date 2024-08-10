@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25tMzd2aWlnMjMzbDI0MWN4emNjdTAzbzk0NnMzc2RpNXczcGtrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nUPQW8zs1623XF36Yj/giphy.gif" alt="Description of GIF"
+  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gif" alt="Rounded GIF" style="border-radius: 15px;" />
 </div>
 
 ---
