@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
+  <img src="https://imgur.com/a/z7j1Ptf" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
 </div>
 
 ---
