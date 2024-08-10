@@ -4,9 +4,8 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gif" alt="Rounded GIF" style="border-radius: 100px;" />
+  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gif" alt="Rounded GIF" style="border-radius: 9999px; overflow: hidden;" />
 </div>
-
 
 ---
 
