@@ -14,10 +14,13 @@
 ## 👀 Who Am I?
 
 <div align="center">
-  <strong>Hello! I'm Da-Coder-Jr, or the name I also go by CHILL-BEATS :D,</strong><br>
+  <strong>Hello!👋 I'm Da-Coder-Jr, or the name I also go by CHILL-BEATS :D,</strong><br>
   <strong>a passionate coder who loves exploring new technologies and collaborating on exciting projects.</strong><br>
   <strong>I'm always eager to learn, innovate, and share knowledge with the community.</strong><br>
   <strong>My journey in coding started with an insatiable curiosity, and I’ve been hooked ever since!</strong><br>
+  <strong>I **LOVE** to experiment with Hacks and code!It brings me **LOTS** of joy!</strong><br>
+  
+
 </div>
 
 ---
@@ -219,8 +222,8 @@
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 **[Personal Website](https://e-z.bio/caged)** - Check out my website!
-
+- 🌐 **[A website I customized](https://e-z.bio/caged)** - Check out  website!
+- 🌐💻 **[My website](
 ---
 
 ## 📣 Shoutouts to the Community
