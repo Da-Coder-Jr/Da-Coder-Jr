@@ -1,3 +1,4 @@
+<div align="center">
 # </br></br>@Da-Coder-Jr/@CHILL-BEATS :D </br></br>
 
 ---
@@ -47,61 +48,218 @@
 ## 💡 Tips, Hacks & Tricks
 
 ### **VSCode Hacks**
-<div align="left">
-  <ul>
-    <li><strong>Zen Mode</strong>: Press <code>Ctrl + K Z</code> to enter Zen Mode, hiding all distractions.</li>
-    <li><strong>Multi-Cursor Magic</strong>: Hold <code>Alt</code> (Windows) or <code>Option</code> (Mac) and click to create multiple cursors for faster editing.</li>
-    <li><strong>Quick Rename</strong>: Highlight a variable and press <code>F2</code> to rename it everywhere in your code.</li>
-    <li><strong>Command Palette</strong>: Open the command palette with <code>Ctrl + Shift + P</code> for quick access to all commands.</li>
-    <li><strong>Integrated Terminal</strong>: Open a terminal right within VSCode using <code>Ctrl + `</code>.</li>
-    <li><strong>Live Server</strong>: Install the Live Server extension to instantly see changes in your web projects.</li>
-  </ul>
-</div>
+
+#### **Zen Mode**
+- **What It Does**: Hides all distractions in VSCode, giving you a full-screen, minimalistic environment to focus on coding.
+- **How to Use**: 
+  - Press `Ctrl + K Z` (Windows/Linux) or `Cmd + K Z` (Mac) to enter Zen Mode.
+  - Press the same combination to exit Zen Mode.
+
+#### **Multi-Cursor Magic**
+- **What It Does**: Allows you to place multiple cursors in your text, making simultaneous edits in different places.
+- **How to Use**: 
+  - Hold `Alt` (Windows/Linux) or `Option` (Mac) and click in multiple places where you want to place cursors.
+
+#### **Quick Rename**
+- **What It Does**: Quickly rename all instances of a variable or function.
+- **How to Use**: 
+  - Highlight the variable and press `F2`, then enter the new name and press `Enter`.
+
+#### **Command Palette**
+- **What It Does**: Provides quick access to all VSCode commands.
+- **How to Use**: 
+  - Press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (Mac) to open the Command Palette.
+
+#### **Integrated Terminal**
+- **What It Does**: Opens a terminal right within VSCode.
+- **How to Use**: 
+  - Press `Ctrl + `` (Windows/Linux) or `Cmd + `` (Mac) to open/close the integrated terminal.
+
+#### **Live Server**
+- **What It Does**: Instantly sees changes in your web projects by running a local server.
+- **How to Set Up**: 
+  1. Install the "Live Server" extension from the VSCode marketplace.
+  2. Open your HTML file and right-click, then select "Open with Live Server."
 
 ### **Git & GitHub Hacks**
-<div align="left">
-  <ul>
-    <li><strong>Speedy Commits</strong>: Use <code>git commit -am "message"</code> to add and commit in one step.</li>
-    <li><strong>Undo Last Commit</strong>: Made a mistake? Use <code>git reset --soft HEAD~1</code> to undo the last commit without losing your changes.</li>
-    <li><strong>Keep Your Fork Up to Date</strong>: Sync your forked repository with the original using <code>git pull upstream master</code>.</li>
-    <li><strong>Interactive Rebase</strong>: Use <code>git rebase -i HEAD~n</code> to interactively edit your commit history.</li>
-    <li><strong>GitHub CLI</strong>: Use <code>gh</code> command-line tool to manage GitHub repositories from your terminal.</li>
-  </ul>
-</div>
+
+#### **Speedy Commits**
+- **What It Does**: Combines the staging and commit process into a single step.
+- **How to Use**: 
+  - Run `git commit -am "your message"` to add and commit changes in one go.
+
+#### **Undo Last Commit**
+- **What It Does**: Allows you to undo your last commit while keeping your changes.
+- **How to Use**: 
+  - Run `git reset --soft HEAD~1` to undo the last commit.
+
+#### **Keep Your Fork Up to Date**
+- **What It Does**: Synchronizes your fork with the upstream repository.
+- **How to Use**: 
+  1. Add the upstream repository: `git remote add upstream <upstream-repo-url>`
+  2. Fetch the latest changes: `git fetch upstream`
+  3. Merge changes into your fork: `git merge upstream/master`
+
+#### **Interactive Rebase**
+- **What It Does**: Allows you to edit, combine, or delete commits in your history.
+- **How to Use**: 
+  - Run `git rebase -i HEAD~n` where `n` is the number of commits you want to rebase.
+
+#### **GitHub CLI**
+- **What It Does**: Manage GitHub repositories from your terminal.
+- **How to Set Up**: 
+  1. Install GitHub CLI: `brew install gh` (macOS) or follow the instructions for your OS [here](https://cli.github.com/).
+  2. Authenticate: `gh auth login`
+  3. Use commands like `gh repo create`, `gh issue list`, etc.
 
 ### **JavaScript Fun**
-<div align="left">
-  <ul>
-    <li><strong>Array Sorting</strong>: Use <code>arr.sort((a, b) => a - b)</code> to quickly sort an array of numbers.</li>
-    <li><strong>Flatten an Array</strong>: Use <code>arr.flat(Infinity)</code> to flatten an array of arrays into a single-level array.</li>
-    <li><strong>Shuffling an Array</strong>: Use <code>arr.sort(() => Math.random() - 0.5)</code> for a quick shuffle.</li>
-    <li><strong>Destructure Objects</strong>: Quickly unpack properties from objects into variables: <code>const { name, age } = person;</code></li>
-    <li><strong>Nullish Coalescing</strong>: Use <code>??</code> to provide default values for <code>null</code> or <code>undefined</code>: <code>const value = input ?? 'default';</code></li>
-  </ul>
-</div>
+
+#### **Array Sorting**
+- **What It Does**: Sorts an array of numbers in ascending order.
+- **How to Use**: 
+  - Example: `arr.sort((a, b) => a - b)`
+
+#### **Flatten an Array**
+- **What It Does**: Flattens an array of arrays into a single-level array.
+- **How to Use**: 
+  - Example: `arr.flat(Infinity)`
+
+#### **Shuffling an Array**
+- **What It Does**: Randomly shuffles the elements in an array.
+- **How to Use**: 
+  - Example: `arr.sort(() => Math.random() - 0.5)`
+
+#### **Destructure Objects**
+- **What It Does**: Quickly unpack properties from objects into variables.
+- **How to Use**: 
+  - Example: `const { name, age } = person;`
+
+#### **Nullish Coalescing**
+- **What It Does**: Provides default values for `null` or `undefined`.
+- **How to Use**: 
+  - Example: `const value = input ?? 'default';`
 
 ### **Terminal Power**
-<div align="left">
-  <ul>
-    <li><strong>History Search</strong>: Press <code>Ctrl + R</code> to search through your terminal command history.</li>
-    <li><strong>Create Aliases</strong>: Save time with aliases like <code>alias gs='git status'</code> to shorten common commands.</li>
-    <li><strong>Directory Navigation</strong>: Jump back two directories with <code>cd ../..</code> or forward using <code>pushd</code>.</li>
-    <li><strong>Colorful Terminal</strong>: Customize your terminal prompt with colors using PS1 variable in `.bashrc` or `.zshrc`.</li>
-    <li><strong>Watch a Command</strong>: Use <code>watch -n 5 'command'</code> to run a command every 5 seconds and see live updates.</li>
-    <li><strong>tmux</strong>: Manage multiple terminal sessions from a single window using <code>tmux</code>.</li>
-  </ul>
-</div>
+
+#### **History Search**
+- **What It Does**: Allows you to search through your terminal command history.
+- **How to Use**: 
+  - Press `Ctrl + R` and start typing to search your history.
+
+#### **Create Aliases**
+- **What It Does**: Shortens common commands with custom shortcuts.
+- **How to Set Up**: 
+  1. Open your `.bashrc`, `.zshrc`, or equivalent file.
+  2. Add an alias: `alias gs='git status'`
+  3. Save the file and run `source ~/.bashrc` or `source ~/.zshrc` to apply the changes.
+
+#### **Directory Navigation**
+- **What It Does**: Quickly jump between directories.
+- **How to Use**: 
+  - Go back two directories: `cd ../..`
+  - Go to the previous directory: `cd -`
+  - Use `pushd` and `popd` to navigate directories and return.
+
+#### **Colorful Terminal**
+- **What It Does**: Customizes your terminal prompt with colors.
+- **How to Set Up**: 
+  1. Open your `.bashrc`, `.zshrc`, or equivalent file.
+  2. Add the following line for a colored prompt:
+     ```bash
+     export PS1="\[\033[01;32m\]\u@\h \[\033[01;34m\]\w \$\[\033[00m\] "
+     ```
+  3. Save the file and run `source ~/.bashrc` or `source ~/.zshrc` to apply the changes.
+
+#### **Watch a Command**
+- **What It Does**: Repeatedly runs a command at intervals.
+- **How to Set Up on macOS**:
+  1. **Install `watch` using Homebrew**: 
+     ```bash
+     brew install watch
+     ```
+  2. **Use the `watch` Command**: 
+     ```bash
+     watch -n 5 'command'
+     ```
+
+#### **tmux**
+- **What It Does**: Manages multiple terminal sessions from a single window.
+- **How to Set Up**: 
+  1. **Install tmux**: 
+     ```bash
+     brew install tmux
+     ```
+  2. **Start a Session**: 
+     ```bash
+     tmux
+     ```
+  3. **Use Shortcuts**:
+     - Detach: `Ctrl + B`, then `D`
+     - Attach: `tmux attach`
+     - Split window horizontally: `Ctrl + B`, then `%`
+     - Split window vertically: `Ctrl + B`, then `"`
 
 ### **Fun CLI Commands**
-<div align="left">
-  <ul>
-    <li><strong>Watch Star Wars</strong>: Type <code>telnet towel.blinkenlights.nl</code> in the terminal and watch Star Wars in ASCII.</li>
-    <li><strong>Cowsay</strong>: Install <code>cowsay</code> and have a fun ASCII cow deliver your terminal messages with <code>cowsay "Hello, world!"</code>.</li>
-    <li><strong>Fortune</strong>: Combine <code>cowsay</code> with <code>fortune</code> for a cow that shares random fortunes: <code>fortune | cowsay</code>.</li>
-    <li><strong>Asciiquarium</strong>: Install <code>asciiquarium</code> for a fun ASCII fish tank right in your terminal!</li>
-    <li><strong>figlet</strong>: Use <code>figlet</code> to create large ASCII text banners in your terminal.</li>
-  </ul>
-</div>
+
+#### **Watch Star Wars**
+- **What It Does**: Streams Star Wars in ASCII art in your terminal.
+- **How to Set Up on macOS**:
+  1. **Install Telnet**: 
+     ```bash
+     brew install telnet
+     ```
+  2. **Run the Command**: 
+     ```bash
+     telnet towel.blinkenlights.nl
+     ```
+
+#### **Cowsay**
+- **What It Does**: Displays fun ASCII art with a customizable message.
+- **How to Set Up**: 
+  1. **Install cowsay**: 
+     ```bash
+     brew install cowsay
+     ```
+  2. **Run the Command**: 
+     ```bash
+     cowsay "Hello, world!"
+     ```
+
+#### **Fortune**
+- **What It Does**: Generates a random fortune message.
+- **How to Set Up**:
+  1. **Install fortune**:
+     ```bash
+     brew install fortune
+     ```
+  2. **Combine with cowsay**:
+     ```bash
+     fortune | cowsay
+     ```
+
+#### **Asciiquarium**
+- **What It Does**: Displays an animated ASCII fish tank in your terminal.
+- **How to Set Up**: 
+  1. **Install Asciiquarium**:
+     ```bash
+     brew install asciiquarium
+     ```
+  2. **Run the Command**: 
+     ```bash
+     asciiquarium
+     ```
+
+#### **figlet**
+- **What It Does**: Creates large ASCII text banners in your terminal.
+- **How to Set Up**: 
+  1. **Install figlet**:
+     ```bash
+     brew install figlet
+     ```
+  2. **Run the Command**:
+     ```bash
+     figlet "Your Text Here"
+     ```
 
 ---
 
