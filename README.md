@@ -1,6 +1,7 @@
 <div align="center">
-  <strong> @Da-Coder-Jr/@CHILL-BEATS :D</strong>
+  <h2><strong>@Da-Coder-Jr/@CHILL-BEATS :D</strong></h2>
 </div>
+
 
 
 <div align="center">
