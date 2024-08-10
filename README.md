@@ -1,7 +1,7 @@
-
-## @Da-Coder-Jr/@CHILL-BEATS :D
 <div align="center">
----
+  <strong>## @Da-Coder-Jr/@CHILL-BEATS :D</strong>
+</div>
+
 
 <div align="center">
   <img src="https://auto.creavite.co/api/out/mxhRQlpdWrSCshywwx_standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
