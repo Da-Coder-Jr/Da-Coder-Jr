@@ -2,13 +2,13 @@
   <h2><strong>@Da-Coder-Jr/@CHILL-BEATS :D</strong></h2>
 </div>
 
-
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gif" alt="Description of GIF" />
 </div>
 
-
+---
 
 
 ## 👀 Who Am I?
