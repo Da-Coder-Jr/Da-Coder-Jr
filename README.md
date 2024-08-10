@@ -222,7 +222,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 **[A website I customized](https://e-z.bio/caged)** - Check out a website I customized to my liking
+- 🌐 **[A website I customized](https://e-z.bio/caged)** - Check out a website I customized to my liking!
 - 🌐💻 **[My website](https://da-coder-jr.github.io/MY-CUSTOM-WEBSITE/)** - A custom code website I made! **[source code](https://github.com/Da-Coder-Jr/MY-CUSTOM-WEBSITE)**
 ---
 
