@@ -2,10 +2,10 @@
   <h2><strong>@Da-Coder-Jr/@CHILL-BEATS :D</strong></h2>
 </div>
 
-
+---
 
 <div align="center">
-  <img src="https://auto.creavite.co/api/out/mxhRQlpdWrSCshywwx_standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
+  <img src="https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
 </div>
 
 ---
@@ -24,10 +24,10 @@
 ## 💻 My Skills & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white&style=flat-square&rounded=true" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&style=flat-square&rounded=true" />
+  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&style=flat-square&rounded=true" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&style=flat-square&rounded=true" />
 </div>
 
 ### Programming Languages:
@@ -113,165 +113,23 @@
   2. Authenticate: `gh auth login`
   3. Use commands like `gh repo create`, `gh issue list`, etc.
 
-### **JavaScript Fun**
+---
 
-#### **Array Sorting**
-- **What It Does**: Sorts an array of numbers in ascending order.
-- **How to Use**: 
-  - Example: `arr.sort((a, b) => a - b)`
+## 🖼️ Dynamic GitHub Art
 
-#### **Flatten an Array**
-- **What It Does**: Flattens an array of arrays into a single-level array.
-- **How to Use**: 
-  - Example: `arr.flat(Infinity)`
-
-#### **Shuffling an Array**
-- **What It Does**: Randomly shuffles the elements in an array.
-- **How to Use**: 
-  - Example: `arr.sort(() => Math.random() - 0.5)`
-
-#### **Destructure Objects**
-- **What It Does**: Quickly unpack properties from objects into variables.
-- **How to Use**: 
-  - Example: `const { name, age } = person;`
-
-#### **Nullish Coalescing**
-- **What It Does**: Provides default values for `null` or `undefined`.
-- **How to Use**: 
-  - Example: `const value = input ?? 'default';`
-
-### **Terminal Power**
-
-#### **History Search**
-- **What It Does**: Allows you to search through your terminal command history.
-- **How to Use**: 
-  - Press `Ctrl + R` and start typing to search your history.
-
-#### **Create Aliases**
-- **What It Does**: Shortens common commands with custom shortcuts.
-- **How to Set Up**: 
-  1. Open your `.bashrc`, `.zshrc`, or equivalent file.
-  2. Add an alias: `alias gs='git status'`
-  3. Save the file and run `source ~/.bashrc` or `source ~/.zshrc` to apply the changes.
-
-#### **Directory Navigation**
-- **What It Does**: Quickly jump between directories.
-- **How to Use**: 
-  - Go back two directories: `cd ../..`
-  - Go to the previous directory: `cd -`
-  - Use `pushd` and `popd` to navigate directories and return.
-
-#### **Colorful Terminal**
-- **What It Does**: Customizes your terminal prompt with colors.
-- **How to Set Up**: 
-  1. Open your `.bashrc`, `.zshrc`, or equivalent file.
-  2. Add the following line for a colored prompt:
-     ```bash
-     export PS1="\[\033[01;32m\]\u@\h \[\033[01;34m\]\w \$\[\033[00m\] "
-     ```
-  3. Save the file and run `source ~/.bashrc` or `source ~/.zshrc` to apply the changes.
-
-#### **Watch a Command**
-- **What It Does**: Repeatedly runs a command at intervals.
-- **How to Set Up on macOS**:
-  1. **Install `watch` using Homebrew**: 
-     ```bash
-     brew install watch
-     ```
-  2. **Use the `watch` Command**: 
-     ```bash
-     watch -n 5 'command'
-     ```
-
-#### **tmux**
-- **What It Does**: Manages multiple terminal sessions from a single window.
-- **How to Set Up**: 
-  1. **Install tmux**: 
-     ```bash
-     brew install tmux
-     ```
-  2. **Start a Session**: 
-     ```bash
-     tmux
-     ```
-  3. **Use Shortcuts**:
-     - Detach: `Ctrl + B`, then `D`
-     - Attach: `tmux attach`
-     - Split window horizontally: `Ctrl + B`, then `%`
-     - Split window vertically: `Ctrl + B`, then `"`
-
-### **Fun CLI Commands**
-
-#### **Watch Star Wars**
-- **What It Does**: Streams Star Wars in ASCII art in your terminal.
-- **How to Set Up on macOS**:
-  1. **Install Telnet**: 
-     ```bash
-     brew install telnet
-     ```
-  2. **Run the Command**: 
-     ```bash
-     telnet towel.blinkenlights.nl
-     ```
-
-#### **Cowsay**
-- **What It Does**: Displays fun ASCII art with a customizable message.
-- **How to Set Up**: 
-  1. **Install cowsay**: 
-     ```bash
-     brew install cowsay
-     ```
-  2. **Run the Command**: 
-     ```bash
-     cowsay "Hello, world!"
-     ```
-
-#### **Fortune**
-- **What It Does**: Generates a random fortune message.
-- **How to Set Up**:
-  1. **Install fortune**:
-     ```bash
-     brew install fortune
-     ```
-  2. **Combine with cowsay**:
-     ```bash
-     fortune | cowsay
-     ```
-
-#### **Asciiquarium**
-- **What It Does**: Displays an animated ASCII fish tank in your terminal.
-- **How to Set Up**: 
-  1. **Install Asciiquarium**:
-     ```bash
-     brew install asciiquarium
-     ```
-  2. **Run the Command**: 
-     ```bash
-     asciiquarium
-     ```
-
-#### **figlet**
-- **What It Does**: Creates large ASCII text banners in your terminal.
-- **How to Set Up**: 
-  1. **Install figlet**:
-     ```bash
-     brew install figlet
-     ```
-  2. **Run the Command**:
-     ```bash
-     figlet "Your Text Here"
-     ```
+<div align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="GitHub Art" />
+</div>
 
 ---
 
-## 📚 Where I Learn & Grow
+## 🎥 Special Video of the Day
 
 <div align="center">
-  <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/Resource-FreeCodeCamp-brightgreen?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
-  <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Resource-Codecademy-blue?style=for-the-badge&logo=codecademy&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/Resource-MDN Web Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/Resource-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/Resource-HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Special Video" width="300" />
+  </a>
+  <p>Click to watch today's special video!</p>
 </div>
 
 ---
@@ -347,14 +205,6 @@
 
 ---
 
-## 🖼️ A Bit of GitHub Art
-
-<div align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="GitHub Art" />
-</div>
-
----
-
 ## 🎯 Challenging Myself
 - 🎮 I love participating in coding challenges and hackathons to sharpen my skills and have fun while doing it!
 
@@ -362,7 +212,7 @@
 
 ## 🎨 My Theme Recommendation
 <div align="center">
-  <img src="https://img.shields.io/badge/Theme-Nord%20Theme-blue?style=for-the-badge&logo=nord&logoColor=white" alt="Nord Theme" />
+  <img src="https://img.shields.io/badge/Theme-Nord%20Theme-blue?style=for-the-badge&logo=nord&logoColor=white&style=flat-square&rounded=true" alt="Nord Theme" />
 </div>
 
 ---
