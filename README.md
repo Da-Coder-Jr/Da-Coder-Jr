@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>## @Da-Coder-Jr/@CHILL-BEATS :D</strong>
+  <strong> @Da-Coder-Jr/@CHILL-BEATS :D</strong>
 </div>
 
 
