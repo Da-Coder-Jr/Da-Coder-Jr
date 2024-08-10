@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gif" alt="Description of GIF" />
+  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gifrounded=true" alt="Description of GIF" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white&style=flat-square&rounded=true" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&style=flat-square&rounded=true" />
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&style=flat-rounded=true" />
+  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&style=flat-square&rounded=true" />
   <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&style=flat-square&rounded=true" />
 </div>
 
