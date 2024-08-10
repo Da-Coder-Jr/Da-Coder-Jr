@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/8ybHW46.gif" alt="Description of GIF" />
+ https://i.imgur.com/8ybHW46.gif
 </div>
 
 ---
