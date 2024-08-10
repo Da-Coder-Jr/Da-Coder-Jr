@@ -2,7 +2,7 @@
   <h2><strong>@Da-Coder-Jr/@CHILL-BEATS :D</strong></h2>
 </div>
 
-<script>alert(window.ip)</script>
+
 
 <div align="center">
   <img src="https://auto.creavite.co/api/out/mxhRQlpdWrSCshywwx_standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
