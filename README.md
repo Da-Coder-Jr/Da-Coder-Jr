@@ -14,7 +14,7 @@
   <strong>Hello! I'm Da-Coder-Jr, or the name I also go by CHILL-BEATS :D,</strong><br>
   <strong>a passionate coder who loves exploring new technologies and collaborating on exciting projects.</strong><br>
   <strong>I'm always eager to learn, innovate, and share knowledge with the community.</strong><br>
-  <strong>My journey in coding started with an insatiable curiosity, and I’ve been hooked ever since!</strong>
+  <strong>My journey in coding started with an insatiable curiosity, and I’ve been hooked ever since!</strong><br>
 </div>
 
 ---
@@ -29,18 +29,18 @@
 </div>
 
 ### Programming Languages:
-- 🌟 **Python**: My go-to language for automation, data analysis, and more.
-- 🌟 **JavaScript**: For all things web, from front-end magic to back-end logic.
-- 🌟 **HTML/CSS**: Bringing web designs to life with clean and responsive code.
+- 🌟 **Python**: My go-to language for automation, data analysis, scripting, and more.
+- 🌟 **JavaScript**: Bringing interactivity to the web with both front-end and back-end development.
+- 🌟 **HTML/CSS**: Crafting beautiful and responsive websites.
 
 ### Development Tools:
-- 🔧 **Git & GitHub**: Version control and collaboration made easy.
-- 🔧 **VSCode**: My preferred code editor, packed with extensions for every need.
-- 🔧 **Node.js**: Powering server-side code with efficiency and speed.
+- 🔧 **Git & GitHub**: Essential for version control and collaborating with developers worldwide.
+- 🔧 **VSCode**: The Swiss Army knife of code editors with tons of extensions to power productivity.
+- 🔧 **Node.js**: Perfect for building scalable server-side applications and scripts.
 
 ### Frameworks:
-- 🚀 **React**: Building interactive and dynamic UIs with ease.
-- 🚀 **Express**: My choice for creating robust and scalable back-end applications.
+- 🚀 **React**: For building fast, dynamic, and responsive web applications.
+- 🚀 **Express**: A lightweight and powerful back-end framework to complement Node.js.
 
 ---
 
@@ -50,10 +50,11 @@
 <div align="left">
   <ul>
     <li><strong>Zen Mode</strong>: Press <code>Ctrl + K Z</code> to enter Zen Mode, hiding all distractions.</li>
-    <li><strong>Multi-Cursor Magic</strong>: Hold <code>Alt</code> and click to create multiple cursors for faster editing.</li>
+    <li><strong>Multi-Cursor Magic</strong>: Hold <code>Alt</code> (Windows) or <code>Option</code> (Mac) and click to create multiple cursors for faster editing.</li>
     <li><strong>Quick Rename</strong>: Highlight a variable and press <code>F2</code> to rename it everywhere in your code.</li>
     <li><strong>Command Palette</strong>: Open the command palette with <code>Ctrl + Shift + P</code> for quick access to all commands.</li>
     <li><strong>Integrated Terminal</strong>: Open a terminal right within VSCode using <code>Ctrl + `</code>.</li>
+    <li><strong>Live Server</strong>: Install the Live Server extension to instantly see changes in your web projects.</li>
   </ul>
 </div>
 
@@ -64,7 +65,7 @@
     <li><strong>Undo Last Commit</strong>: Made a mistake? Use <code>git reset --soft HEAD~1</code> to undo the last commit without losing your changes.</li>
     <li><strong>Keep Your Fork Up to Date</strong>: Sync your forked repository with the original using <code>git pull upstream master</code>.</li>
     <li><strong>Interactive Rebase</strong>: Use <code>git rebase -i HEAD~n</code> to interactively edit your commit history.</li>
-    <li><strong>Auto-Generate Release Notes</strong>: Use GitHub's automatic release notes generator when publishing new releases to save time.</li>
+    <li><strong>GitHub CLI</strong>: Use <code>gh</code> command-line tool to manage GitHub repositories from your terminal.</li>
   </ul>
 </div>
 
@@ -74,7 +75,8 @@
     <li><strong>Array Sorting</strong>: Use <code>arr.sort((a, b) => a - b)</code> to quickly sort an array of numbers.</li>
     <li><strong>Flatten an Array</strong>: Use <code>arr.flat(Infinity)</code> to flatten an array of arrays into a single-level array.</li>
     <li><strong>Shuffling an Array</strong>: Use <code>arr.sort(() => Math.random() - 0.5)</code> for a quick shuffle.</li>
-    <li><strong>Convert to Array</strong>: Use <code>Array.from(iterable)</code> to convert any iterable into an array.</li>
+    <li><strong>Destructure Objects</strong>: Quickly unpack properties from objects into variables: <code>const { name, age } = person;</code></li>
+    <li><strong>Nullish Coalescing</strong>: Use <code>??</code> to provide default values for <code>null</code> or <code>undefined</code>: <code>const value = input ?? 'default';</code></li>
   </ul>
 </div>
 
@@ -86,6 +88,7 @@
     <li><strong>Directory Navigation</strong>: Jump back two directories with <code>cd ../..</code> or forward using <code>pushd</code>.</li>
     <li><strong>Colorful Terminal</strong>: Customize your terminal prompt with colors using PS1 variable in `.bashrc` or `.zshrc`.</li>
     <li><strong>Watch a Command</strong>: Use <code>watch -n 5 'command'</code> to run a command every 5 seconds and see live updates.</li>
+    <li><strong>tmux</strong>: Manage multiple terminal sessions from a single window using <code>tmux</code>.</li>
   </ul>
 </div>
 
@@ -96,6 +99,7 @@
     <li><strong>Cowsay</strong>: Install <code>cowsay</code> and have a fun ASCII cow deliver your terminal messages with <code>cowsay "Hello, world!"</code>.</li>
     <li><strong>Fortune</strong>: Combine <code>cowsay</code> with <code>fortune</code> for a cow that shares random fortunes: <code>fortune | cowsay</code>.</li>
     <li><strong>Asciiquarium</strong>: Install <code>asciiquarium</code> for a fun ASCII fish tank right in your terminal!</li>
+    <li><strong>figlet</strong>: Use <code>figlet</code> to create large ASCII text banners in your terminal.</li>
   </ul>
 </div>
 
