@@ -4,8 +4,9 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gif" alt="Description of GIF" width="400" height="225" style="border-radius: 15px;" />
+  <img src="blob:https://onlinegiftools.com/68556a2d-d2f7-4d4c-83ea-27d46f646f91" alt="Description of GIF"
 </div>
+
 ---
 
 
