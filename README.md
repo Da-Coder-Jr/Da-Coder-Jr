@@ -3,13 +3,19 @@
 ---
 
 <div align="center">
-  <img src="https://path-to-your-uploaded-banner/standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
+  <img src="https://auto.creavite.co/api/out/mxhRQlpdWrSCshywwx_standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
 </div>
 
 ---
 
 ## 👀 Who Am I?
-Hello! I'm **Da-Coder-Jr** or the name I also go by **CHILL-BEATS :D**, a passionate coder who loves exploring new technologies and collaborating on exciting projects. I'm always eager to learn, innovate, and share knowledge with the community. My journey in coding started with an insatiable curiosity, and I’ve been hooked ever since!
+
+<div align="center">
+  <strong>Hello! I'm Da-Coder-Jr, or the name I also go by CHILL-BEATS :D,</strong><br>
+  <strong>a passionate coder who loves exploring new technologies and collaborating on exciting projects.</strong><br>
+  <strong>I'm always eager to learn, innovate, and share knowledge with the community.</strong><br>
+  <strong>My journey in coding started with an insatiable curiosity, and I’ve been hooked ever since!</strong>
+</div>
 
 ---
 
@@ -58,6 +64,7 @@ Hello! I'm **Da-Coder-Jr** or the name I also go by **CHILL-BEATS :D**, a passio
     <li><strong>Undo Last Commit</strong>: Made a mistake? Use <code>git reset --soft HEAD~1</code> to undo the last commit without losing your changes.</li>
     <li><strong>Keep Your Fork Up to Date</strong>: Sync your forked repository with the original using <code>git pull upstream master</code>.</li>
     <li><strong>Interactive Rebase</strong>: Use <code>git rebase -i HEAD~n</code> to interactively edit your commit history.</li>
+    <li><strong>Auto-Generate Release Notes</strong>: Use GitHub's automatic release notes generator when publishing new releases to save time.</li>
   </ul>
 </div>
 
@@ -67,6 +74,7 @@ Hello! I'm **Da-Coder-Jr** or the name I also go by **CHILL-BEATS :D**, a passio
     <li><strong>Array Sorting</strong>: Use <code>arr.sort((a, b) => a - b)</code> to quickly sort an array of numbers.</li>
     <li><strong>Flatten an Array</strong>: Use <code>arr.flat(Infinity)</code> to flatten an array of arrays into a single-level array.</li>
     <li><strong>Shuffling an Array</strong>: Use <code>arr.sort(() => Math.random() - 0.5)</code> for a quick shuffle.</li>
+    <li><strong>Convert to Array</strong>: Use <code>Array.from(iterable)</code> to convert any iterable into an array.</li>
   </ul>
 </div>
 
@@ -76,6 +84,8 @@ Hello! I'm **Da-Coder-Jr** or the name I also go by **CHILL-BEATS :D**, a passio
     <li><strong>History Search</strong>: Press <code>Ctrl + R</code> to search through your terminal command history.</li>
     <li><strong>Create Aliases</strong>: Save time with aliases like <code>alias gs='git status'</code> to shorten common commands.</li>
     <li><strong>Directory Navigation</strong>: Jump back two directories with <code>cd ../..</code> or forward using <code>pushd</code>.</li>
+    <li><strong>Colorful Terminal</strong>: Customize your terminal prompt with colors using PS1 variable in `.bashrc` or `.zshrc`.</li>
+    <li><strong>Watch a Command</strong>: Use <code>watch -n 5 'command'</code> to run a command every 5 seconds and see live updates.</li>
   </ul>
 </div>
 
@@ -85,6 +95,7 @@ Hello! I'm **Da-Coder-Jr** or the name I also go by **CHILL-BEATS :D**, a passio
     <li><strong>Watch Star Wars</strong>: Type <code>telnet towel.blinkenlights.nl</code> in the terminal and watch Star Wars in ASCII.</li>
     <li><strong>Cowsay</strong>: Install <code>cowsay</code> and have a fun ASCII cow deliver your terminal messages with <code>cowsay "Hello, world!"</code>.</li>
     <li><strong>Fortune</strong>: Combine <code>cowsay</code> with <code>fortune</code> for a cow that shares random fortunes: <code>fortune | cowsay</code>.</li>
+    <li><strong>Asciiquarium</strong>: Install <code>asciiquarium</code> for a fun ASCII fish tank right in your terminal!</li>
   </ul>
 </div>
 
