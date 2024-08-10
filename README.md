@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy.gifrounded=true" alt="Description of GIF" />
+  <img src="https://media.giphy.com/media/jkhtEUhl7OuVpuFJij/giphy" alt="Description of GIF" />
 </div>
 
 ---
