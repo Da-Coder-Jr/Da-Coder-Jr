@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif" alt="Description of GIF" />
+  <img src="https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif" alt="@Da-Coder-Jr/@CHILL-BEATS :D" />
 </div>
 
 ---
