@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  ![Description of GIF](https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif)
+  [Description of GIF](https://auto.creavite.co/api/out/L1iYPP9qge76si0c9w_standard.gif)
 </div>
 
 ---
