@@ -5,11 +5,10 @@
 ---
 
 <div align="center">
- https://i.imgur.com/8ybHW46.gif
+  <img src="https://i.imgur.com/8ybHW46.gif" alt="Description of GIF" />
 </div>
 
 ---
-
 
 
 ## 👀 Who Am I?
