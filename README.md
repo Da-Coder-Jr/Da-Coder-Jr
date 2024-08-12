@@ -3,12 +3,12 @@
 </div>
 
 ---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/ylG1RO6n12kSnydyPG/giphy.gif" alt="Rounded GIF"
+  <img src="https://media.giphy.com/media/ylG1RO6n12kSnydyPG/giphy.gif" alt="Coding GIF" style="border-radius: 25px;" />
 </div>
 
 ---
-
 
 ## 👀 Who Am I?
 
@@ -17,9 +17,6 @@
   <strong>a passionate coder who loves exploring new technologies and collaborating on exciting projects.</strong><br>
   <strong>I'm always eager to learn, innovate, and share knowledge with the community.</strong><br>
   <strong>My journey in coding started with an insatiable curiosity, and I’ve been hooked ever since!</strong><br>
-  
-  
-
 </div>
 
 ---
@@ -121,7 +118,7 @@
 ## 🖼️ Dynamic GitHub Art
 
 <div align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="GitHub Art" />
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="GitHub Art" style="border-radius: 25px;" />
 </div>
 
 ---
@@ -222,7 +219,7 @@
 
 ## 🤝 Let’s Connect
 - 🌐 **[A website I customized](https://e-z.bio/caged)** - Check out a website I customized to my liking!
-- 🌐💻 **[My website](https://da-coder-jr.github.io/MY-CUSTOM-WEBSITE/)** - A custom code website I made! **[source code](https://github.com/Da-Coder-Jr/MY-CUSTOM-WEBSITE)**
+- 🌐💻 **[My website](https://da-coder-jr.github.io/MY-CUSTOM-WEBSITE/)** - A custom code website I made! **[source code](https://da-coder-jr.github.io/about-me-website-source-code/)**
 ---
 
 ## 📣 Shoutouts to the Community
