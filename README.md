@@ -218,7 +218,7 @@
 
 ## 🤝 Let’s Connect
 - 🌐 **[A website I customized](https://e-z.bio/caged)** - Check out a website I customized to my liking!
-- 🌐💻 **[My website](https://da-coder-jr.github.io/MY-CUSTOM-WEBSITE/)** - A custom code website I made! **[source code](https://da-coder-jr.github.io/about-me-website-source-code/)**
+- 🌐💻 **[My website](https://da-coder-jr.github.io/about-me-website-source-code/)** - A custom code website I made! **[source code](https://github.com/Da-Coder-Jr/about-me-website-source-code)**
 ---
 
 ## 📣 Shoutouts to the Community
