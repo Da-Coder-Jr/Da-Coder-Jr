@@ -127,7 +127,6 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Special Video" width="300" />
   </a>
   <p>Click to watch today's special video!</p>
 </div>
