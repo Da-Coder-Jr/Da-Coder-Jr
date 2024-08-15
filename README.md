@@ -127,7 +127,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  </a>
+
   <p>Click to watch today's special video!</p>
 </div>
 
