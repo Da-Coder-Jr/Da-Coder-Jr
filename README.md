@@ -1,7 +1,7 @@
 <div align="center">
   <h1><strong>@Da-Coder-Jr / @CHILL-BEATS :D</strong></h1>
   <p>Passionate coder | Tech enthusiast | Lifelong learner</p>
-  <img src="https://media.giphy.com/media/ylG1RO6n12kSnydyPG/giphy.gif" alt="Coding GIF" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ylG1RO6n12kSnydyPG/giphy.gif" alt="Coding GIF" />
 </div>
 
 ---
