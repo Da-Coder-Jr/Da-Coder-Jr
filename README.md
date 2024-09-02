@@ -40,10 +40,10 @@
 
 ## 🎨 Featured Projects
 
-- **[Project One](#)**: Brief description of what this project does and what technologies were used.
-- **[Project Two](#)**: Brief description of what this project does and what technologies were used.
-- **[Project Three](#)**: Brief description of what this project does and what technologies were used.
-
+- **[ASCCI camera](https://github.com/Da-Coder-Jr/ASCCI-CAMERA)**: This project captures live video from your camera and converts it into real-time ASCII art, turning your surroundings and yourself into a dynamic, text-based visual experience.
+- **[My Website](https://da-coder-jr.github.io/about-me-website-source-code/
+)**: The website is designed to showcase personal information, skills, projects, and interests in a dynamic and interactive format.
+**AND MANY MORE!**
 ---
 
 ## 🖼️ GitHub Art & Stats
