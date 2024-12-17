@@ -68,7 +68,7 @@
 
 ## 🔥 Fun Facts & Favorites
 
-- **Favorite Game**: Portal 2 - Mastering physics with portals!
+- **Favorite Game**: Astro Bot - Fun, happy, cute vibes!
 - **Favorite Anime**: Exploring aesthetics and captivating stories.
 - **Coding Music**: Chill beats to keep the creativity flowing.
 - **Favorite Snack**: 🍕 Pizza - The ultimate coder's fuel.
