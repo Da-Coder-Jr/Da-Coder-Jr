@@ -60,9 +60,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Da-Coder-Jr&theme=radical" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Da-Coder-Jr&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 ---
 
