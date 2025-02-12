@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>𓆩♡𓆪   @Da-Coder-Jr / @CHILL-BEATS :D   𓆩♡𓆪 </strong></h1>
+  <h1><strong>𓆩♡𓆪   @Da-Coder-Jr / @CHILL-BEATS :D   𓆩♡𓆪</strong></h1>
   <p>Passionate coder | Tech enthusiast | Lifelong learner</p>
   <img src="https://media.giphy.com/media/ylG1RO6n12kSnydyPG/giphy.gif" alt="Coding GIF" />
 </div>
@@ -40,10 +40,10 @@
 
 ## 🎨 Featured Projects
 
-- **[ASCCI camera](https://github.com/Da-Coder-Jr/ASCCI-CAMERA)**: This project captures live video from your camera and converts it into real-time ASCII art, turning your surroundings and yourself into a dynamic, text-based visual experience.
-- **[My Website](https://da-coder-jr.github.io/about-me-website-source-code/
-)**: The website is designed to showcase personal information, skills, projects, and interests in a dynamic and interactive format.
-**AND MANY MORE!**
+- **[ASCII Camera](https://github.com/Da-Coder-Jr/ASCCI-CAMERA)**: Captures live video and converts it into real-time ASCII art.
+- **[My Website](https://da-coder-jr.github.io/about-me-website-source-code/)**: Showcasing my personal info, skills, and projects.
+- **And Many More!**
+
 ---
 
 ## 🖼️ GitHub Art & Stats
@@ -59,8 +59,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Da-Coder-Jr&theme=radical" alt="GitHub Trophies" />
 </div>
-
-
 
 ---
 
@@ -88,4 +86,5 @@ If you liked what you see and want a custom GitHub profile README or personal we
 ---
 
 ## 🌈 Peaceful Vibes
+
 **"Live life to its fullest, embrace the journey, and keep coding with a smile!"** 😊
