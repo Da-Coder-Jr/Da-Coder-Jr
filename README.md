@@ -43,7 +43,8 @@
 ## 🎨 Featured Projects
 
 - **[ASCII Camera](https://github.com/Da-Coder-Jr/ASCCI-CAMERA)**: Captures live video and converts it into real-time ASCII art.
-- **[My Website](https://da-coder-jr.github.io/about-me-website-source-code/)**: Showcasing my personal info, skills, and projects.
+- **[My Website](https://calderdev.vercel.app)**: Showcasing my personal info, skills, and projects.
+- **[AI playground](https://dreambiglabs.vercel.app)**: Free AI! Images, Speech, Chat!
 - **And Many More!**
 
 ---
