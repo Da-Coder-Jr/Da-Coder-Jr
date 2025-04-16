@@ -75,7 +75,7 @@
 ## 📣 Connect with Me
 
 - 🌐 **[Customized Website](https://e-z.bio/caged)** - See a site I customized to my style!
-- 🌐💻 **[Personal Website](https://da-coder-jr.github.io/about-me-website-source-code/)** - A custom website I created! **[Source Code](https://github.com/Da-Coder-Jr/about-me-website-source-code)**
+- 🌐💻 **[Personal Website](https://calderdev.vercel.app)** - My website <3
 
 ---
 
@@ -83,8 +83,3 @@
 
 If you liked what you see and want a custom GitHub profile README or personal website, feel free to reach out! I’d love to help you create something amazing for your profile or online presence.
 
----
-
-## 🌈 Peaceful Vibes
-
-**"Live life to its fullest, embrace the journey, and keep coding with a smile!"** 😊
