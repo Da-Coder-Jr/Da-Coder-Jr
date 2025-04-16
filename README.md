@@ -64,11 +64,11 @@
 
 ## 🔥 Fun Facts & Favorites
 
-- **Favorite Game**: Astro Bot - Fun, happy, cute vibes!
-- **Favorite Anime**: Exploring aesthetics and captivating stories.
+- **Favorite Game**: Astro Bot
+- **Favorite Anime**: Naruto
 - **Coding Music**: Chill beats to keep the creativity flowing.
-- **Favorite Snack**: 🍕 Pizza - The ultimate coder's fuel.
-- **Hobbies**: 🎮 Gaming, 🎨 Drawing, 📚 Sci-Fi adventures.
+- **Favorite Snack**: 🍕 Pizza
+- **Hobbies**:  Gaming, Drawing, Sci-Fi adventures.
 
 ---
 
