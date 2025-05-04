@@ -9,7 +9,7 @@
 ## 👋 About Me
 
 <div align="center">
-  <p><strong>Hello! I'm Da-Coder-Jr, also known as CHILL-BEATS :D.</strong></p>
+  <p><strong>Hello! I'm Da-Coder-Jr, also known as CHILL-BEATS :D. (My github may be messy! I am experimenting!)</strong></p>
   <p>I am a passionate coder with a love for exploring new technologies and collaborating on exciting projects. My journey in coding began with an insatiable curiosity, and it has driven me to continuously learn, innovate, and share knowledge with the community.</p>
 </div>
 
