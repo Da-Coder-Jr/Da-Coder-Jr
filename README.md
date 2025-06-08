@@ -10,35 +10,12 @@
 
 <div align="center">
   <p><strong>Hello! I'm Da-Coder-Jr, also known as CHILL-BEATS :D. (My github may be messy! I am experimenting!)</strong></p>
-  <p>I am a passionate coder with a love for exploring new technologies and collaborating on exciting projects. My journey in coding began with an insatiable curiosity, and it has driven me to continuously learn, innovate, and share knowledge with the community.</p>
+  <p>I am an AI enthusiast... (lol)</p>
 </div>
 
 ---
 
-## 💻 Skills & Tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  , And many more!
-
-</div>
-
-### Languages & Frameworks
-- **Python**: Automation, data analysis, scripting, and more.
-- **JavaScript**: Front-end and back-end development.
-- **HTML/CSS**: Crafting responsive and beautiful websites.
-- **React**: Dynamic, responsive web applications.
-- **Express**: Scalable back-end applications with Node.js.
-
-### Tools & Platforms
-- **Git & GitHub**: Version control and collaboration.
-- **VSCode**: My code editor of choice, packed with powerful extensions.
-- **Node.js**: Server-side scripting and development.
-
----
 
 ## 🎨 Featured Projects
 
